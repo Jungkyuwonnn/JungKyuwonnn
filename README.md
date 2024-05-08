@@ -11,4 +11,6 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,eclipse,java,mysql,spring,vscode)](https://skillicons.dev) <br>
 
 ### ✨About Me 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sxbehs93@gmail.com)](sxbehs93@gmail.com) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JungKyuwonnn)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sxbehs93@gmail.com)](sxbehs93@gmail.com) 
